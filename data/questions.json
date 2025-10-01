@@ -7,19 +7,19 @@
       "id": "q1",
       "text": "Какой тег HTML используется для самого крупного заголовка?",
       "options": ["<title>", "<h6>", "<h1>", "<header>"],
-      "correctIndex": 2
+      "correct": "<h1>"
     },
     {
       "id": "q2",
       "text": "Как в CSS задать цвет текста?",
       "options": ["font-color", "text-color", "color", "font.fill"],
-      "correctIndex": 2
+      "correct": "color"
     },
     {
       "id": "q3",
       "text": "Какой метод используется для HTTP-запроса в браузере (без библиотек)?",
       "options": ["axios()", "request()", "fetch()", "$.ajax()"],
-      "correctIndex": 2
+      "correct": "fetch()"
     }
   ]
 }

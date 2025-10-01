@@ -1,0 +1,24 @@
+{
+  "name": "qazaqsoft-interview-task",
+  "version": "1.0.0",
+  "description": "Реализовать мини-модуль для прохождения теста на образовательной платформе.\r Функционал — загрузка вопросов из локального JSON, выбор ответов, подсчёт результата, сохранение прогресса.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tvoya-Shiza/qazaqsoft-interview-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tvoya-Shiza/qazaqsoft-interview-task/issues"
+  },
+  "homepage": "https://github.com/Tvoya-Shiza/qazaqsoft-interview-task#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
